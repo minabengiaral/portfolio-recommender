@@ -1,6 +1,4 @@
-# CPSC 458 Final Project
-
-**Theme:** Portfolio recommendation given client preferences
+# Investment Portfolio Recommender Based on Client Preferences
 
 **Members:** Tetsu Kurumisawa, Mina Bengi Aral
 
