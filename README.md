@@ -1,5 +1,6 @@
 # Investment Portfolio Recommender Based on Client Preferences
 **Theme:** Portfolio recommendation given client preferences
+
 **Members:** Tetsu Kurumisawa, Mina Bengi Aral
 
 
